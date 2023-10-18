@@ -28,7 +28,7 @@
 </p>
 
 </h3>
-<h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=imrohitroy23&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<h3 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arpit-dutt-sharma&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 </h3>
 <h3 align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=arpit-dutt-sharma&theme=tokyonight" alt="mystreak"/>
 </h3>
