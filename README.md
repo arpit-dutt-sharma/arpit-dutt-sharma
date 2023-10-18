@@ -13,7 +13,7 @@
  🌱 I’m currently learning React
 
 
- 📫 How to reach me arpitsharma@gmail.com
+ 📫 How to reach me arpitduttpachouri123@gmail.com
 
 <h3 align="center">Connect with me:</h3>
 
